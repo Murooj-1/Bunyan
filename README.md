@@ -21,7 +21,7 @@ The idea of the game is different because it contains three stages. Each stage r
 motivating game users to complete their building floors with high quality and in a short time, and this infuses the player’s heart with competition and increased concentration. it is important to clarify that this game contains many ideas, as this activates all parts of the mind and increases the rate of enthusiasm when playing
 
 ### 5- Project Demo and Screenshots:
-Demo Video: [click here](https://github.com/Murooj-1/Bunyan/blob/main/Demo/Demo%20Bunyan%20.mp4)
+Demo Video: [click here](https://drive.google.com/file/d/1LP7lwVQe1ONk2qtrvVwjpSD4lVf9ARNB/view?usp=drive_link)
 
 
 Screenshots :
