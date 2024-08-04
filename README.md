@@ -3,9 +3,9 @@
 
 ### 2- Project Logo :
 
-
+<div align="center">
   <img src="https://github.com/Murooj-1/Bunyan/blob/main/BunyanImages/Manar/gameLogo.png" alt="Game Logo" width="150" height="110"/>
-
+</div>
 
 ### 3- First shot of the project :
 
