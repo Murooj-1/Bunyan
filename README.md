@@ -6,7 +6,7 @@
   <img src="https://github.com/Murooj-1/Bunyan/blob/main/BunyanImages/Manar/gameLogo.png" alt="Game Logo" width="300" height="200"/>
 </div>
 
-![Game Demo](Demo/firstshot.gif)
+![Game Demo](https://github.com/Murooj-1/Bunyan/blob/main/Demo/firstshot%20.gif)
 ### 3- Project Idea and Project Aims :
 #### Idea of the project:
 The idea of the game is different because it contains three stages. Each stage represents a floor of the house that the player wants to build. In each stage there is a different game that the player must complete in order to collect points that will help him build a floor of the house. It is worth noting that there are points and time to increase the effectiveness of the game and the possibility of accurate arrangement of players' positions.
