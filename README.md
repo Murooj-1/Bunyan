@@ -3,7 +3,7 @@
 ### 2- Project Logo  :
 
 <div align="center">
-  <img src="https://github.com/Murooj-1/Bunyan/blob/main/BunyanImages/Manar/gameLogo.png" alt="Game Logo" width="300" height="200"/>
+  <img src="https://github.com/Murooj-1/Bunyan/blob/main/BunyanImages/Manar/gameLogo.png" alt="Game Logo" width="100" height="67"/>
 </div>
 
 ![Game Demo](https://github.com/Murooj-1/Bunyan/blob/main/Demo/firstshot%20.gif)
