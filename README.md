@@ -87,12 +87,14 @@ motivating game users to complete their building floors with high quality and in
 </table>
 
 ### 6- Work team :
-Murooj Al-Zahrani
+ - Murooj Al-Zahrani
 
-Manar Al-Mashi
+ - Manar Al-Mashi 
 
-Lamis Mohammed
+ - Lamis Mohammed
 
-Rahaf Al-Mehdar
+ - Rahaf Al-Mehdar
 
-Shahd Al-Thobaiti
+ - Shahd Al-Thobaiti
+
+
