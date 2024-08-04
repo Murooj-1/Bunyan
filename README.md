@@ -2,12 +2,13 @@
 
 ### 2- Project Logo:
 
-<table>
-  <tr>
-    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/BunyanImages/Manar/gameLogo.png" alt="Game Logo" width="100" height="67"/></td>
-    <td>Project Logo</td>
-  </tr>
-</table>
+
+
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/Murooj-1/Bunyan/blob/main/BunyanImages/Manar/gameLogo.png" alt="Game Logo" width="100" height="67" style="margin-right: 10px;"/>
+  <span>Project Logo</span>
+</div>
+
 
 ![Game Demo](https://github.com/Murooj-1/Bunyan/blob/main/Demo/firstshot%20.gif)
 ### 3- Project Idea and Project Aims :
