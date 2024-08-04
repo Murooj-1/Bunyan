@@ -27,41 +27,64 @@ motivating game users to complete their building floors with high quality and in
 
 #### Screenshots :
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
-  <div style="flex: 0 1 calc(33% - 10px); margin: 5px;">
-    <img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/1.jpeg" alt="Screenshot 1" style="width: 50;"/>
-  </div>
-  <div style="flex: 0 1 calc(33% - 10px); margin: 5px;">
-    <img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/2.jpeg" alt="Screenshot 2" style="width: 50;"/>
-  </div>
-  <div style="flex: 0 1 calc(33% - 10px); margin: 5px;">
-    <img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/3.jpeg" alt="Screenshot 3" style="width: 50;"/>
-  </div>
-  
-  <div style="flex: 0 1 calc(33% - 10px); margin: 5px;">
-    <img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/4.jpeg" alt="Screenshot 4" style="width: 100%;"/>
-  </div>
-  <div style="flex: 0 1 calc(33% - 10px); margin: 5px;">
-    <img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/5.jpeg" alt="Screenshot 5" style="width: 100%;"/>
-  </div>
-  <div style="flex: 0 1 calc(33% - 10px); margin: 5px;">
-    <img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/6.jpeg" alt="Screenshot 6" style="width: 100%;"/>
-  </div>
-  
-  <div style="flex: 0 1 calc(33% - 10px); margin: 5px;">
-    <img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/7.jpeg" alt="Screenshot 7" style="width: 100%;"/>
-  </div>
-  <div style="flex: 0 1 calc(33% - 10px); margin: 5px;">
-    <img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/8.jpeg" alt="Screenshot 8" style="width: 100%;"/>
-  </div>
-  <div style="flex: 0 1 calc(33% - 10px); margin: 5px;">
-    <img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/9.jpeg" alt="Screenshot 9" style="width: 100%;"/>
-  </div>
-  
-  
-</div>
-
+<table>
+  <tr>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/1.jpeg" alt="Screenshot 1" width="200"/></td>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/2.jpeg" alt="Screenshot 2" width="200"/></td>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/3.jpeg" alt="Screenshot 3" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/4.jpeg" alt="Screenshot 4" width="200"/></td>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/5.jpeg" alt="Screenshot 5" width="200"/></td>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/6.jpeg" alt="Screenshot 6" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/7.jpeg" alt="Screenshot 7" width="200"/></td>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/8.jpeg" alt="Screenshot 8" width="200"/></td>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/9.jpeg" alt="Screenshot 9" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/10.jpeg" alt="Screenshot 10" width="200"/></td>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/11.jpeg" alt="Screenshot 11" width="200"/></td>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/12.jpeg" alt="Screenshot 12" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/13.jpeg" alt="Screenshot 13" width="200"/></td>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/14.jpeg" alt="Screenshot 14" width="200"/></td>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/15.jpeg" alt="Screenshot 15" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/16.jpeg" alt="Screenshot 16" width="200"/></td>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/17.jpeg" alt="Screenshot 17" width="200"/></td>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/18.jpeg" alt="Screenshot 18" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/19.jpeg" alt="Screenshot 19" width="200"/></td>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/20.jpeg" alt="Screenshot 20" width="200"/></td>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/21.jpeg" alt="Screenshot 21" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/22.jpeg" alt="Screenshot 22" width="200"/></td>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/23.jpeg" alt="Screenshot 23" width="200"/></td>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/24.jpeg" alt="Screenshot 24" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/25.jpeg" alt="Screenshot 25" width="200"/></td>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/26.jpeg" alt="Screenshot 26" width="200"/></td>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/27.jpeg" alt="Screenshot 27" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/28.jpeg" alt="Screenshot 28" width="200"/></td>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/29.jpeg" alt="Screenshot 29" width="200"/></td>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/30.jpeg" alt="Screenshot 30" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/31.jpeg" alt="Screenshot 31" width="200"/></td>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/32.jpeg" alt="Screenshot 32" width="200"/></td>
+    <td><img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/33.jpeg" alt="Screenshot 33" width="200"/></td>
+  </tr>
+</table>
 ### 6- Work team :
 Murooj Al-Zahrani
 
