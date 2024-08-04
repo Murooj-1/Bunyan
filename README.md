@@ -30,13 +30,13 @@ motivating game users to complete their building floors with high quality and in
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
   <div style="flex: 0 1 calc(33% - 10px); margin: 5px;">
-    <img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/1.jpeg" alt="Screenshot 1" style="width: 100%;"/>
+    <img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/1.jpeg" alt="Screenshot 1" style="width: 50;"/>
   </div>
   <div style="flex: 0 1 calc(33% - 10px); margin: 5px;">
-    <img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/2.jpeg" alt="Screenshot 2" style="width: 100%;"/>
+    <img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/2.jpeg" alt="Screenshot 2" style="width: 50;"/>
   </div>
   <div style="flex: 0 1 calc(33% - 10px); margin: 5px;">
-    <img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/3.jpeg" alt="Screenshot 3" style="width: 100%;"/>
+    <img src="https://github.com/Murooj-1/Bunyan/blob/main/Screenshots/3.jpeg" alt="Screenshot 3" style="width: 50;"/>
   </div>
   
   <div style="flex: 0 1 calc(33% - 10px); margin: 5px;">
