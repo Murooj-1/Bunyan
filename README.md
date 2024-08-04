@@ -3,7 +3,7 @@
 ### 2- Project Logo  :
 
 <div align="center">
-  <img src="https://github.com/Murooj-1/Bunyan/blob/main/BunyanImages/Manar/gameLogo.png" alt="Game Logo" width="300" height="100"/>
+  <img src="https://github.com/Murooj-1/Bunyan/blob/main/BunyanImages/Manar/gameLogo.png" alt="Game Logo" width="300" height="200"/>
 </div>
 
 ### 3- Project Idea and Project Aims :
