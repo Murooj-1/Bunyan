@@ -1,13 +1,12 @@
 ### 1- Project Title : Bunyan Game
 
-### 2- Project Logo:
 
-
-
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/Murooj-1/Bunyan/blob/main/BunyanImages/Manar/gameLogo.png" alt="Game Logo" width="100" height="67" style="margin-right: 10px;"/>
-  <span>Project Logo</span>
-</div>
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;"><img src="https://github.com/Murooj-1/Bunyan/blob/main/BunyanImages/Manar/gameLogo.png" alt="Game Logo" width="100" height="67"/></td>
+    <td style="border: none; font-size: 1.17em; font-weight: bold;">Project Logo</td>
+  </tr>
+</table>
 
 
 ![Game Demo](https://github.com/Murooj-1/Bunyan/blob/main/Demo/firstshot%20.gif)
