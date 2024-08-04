@@ -10,7 +10,7 @@
 ### 3- First shot of the project :
 
 <p align="center">
-  <img src="https://github.com/Murooj-1/Bunyan/blob/main/Demo/firstshot%20.gif" alt="Game Demo" width="300" height="200" />
+  <img src="https://github.com/Murooj-1/Bunyan/blob/main/Demo/firstshot%20.gif" alt="Game Demo" width="800" height="700" />
 </p>
 
 ### 4- Project Idea and Project Aims :
